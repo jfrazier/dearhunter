@@ -45,7 +45,7 @@ class MainState {
     // game.physics.arcade.enable(ground);
 
     // The player and its settings
-    this.deer = game.add.sprite(32, game.world.height - 600, 'deer');
+    this.deer = game.add.sprite(game.world.width / 2, 250, 'deer');
     this.deer.anchor.setTo(0.5, 0.5);
     this.deer.scale.setTo(0.5, 0.5);
 
@@ -167,6 +167,9 @@ class MainState {
         if (hitDeer) {
           this.deer.damage(10);
           this.healthScore.setText(this.deer.health);
+          if(!this.deer.alive) {
+            game.state.start('startScreen');
+          }
         }
 
         if (hitDeer || this.bullet.body.checkWorldBounds()) {

@@ -3,7 +3,9 @@
 class StartScreen {
   init() {
     game.input.keyboard.onUpCallback = function() {
-      game.state.start('mainState');
+      if (game.state.getCurrentState().state.current === 'startScreen') {
+        game.state.start('mainState');
+      }
     }
   }
 
@@ -15,7 +17,6 @@ class StartScreen {
   create() {
     this.startScreen = game.add.sprite(game.world.centerX, game.world.centerY, 'startScreen');
     this.startScreen.anchor.setTo(0.5, 0.5);
-
   }
 
   update() {
