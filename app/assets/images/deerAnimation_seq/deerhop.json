@@ -1,0 +1,164 @@
+{"frames": [
+
+{
+	"filename": "deerHop_seq_00000.png",
+	"frame": {"x":1,"y":1,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00001.png",
+	"frame": {"x":1,"y":753,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00002.png",
+	"frame": {"x":1,"y":1505,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00003.png",
+	"frame": {"x":1,"y":2257,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00004.png",
+	"frame": {"x":1,"y":3009,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00005.png",
+	"frame": {"x":753,"y":1,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00006.png",
+	"frame": {"x":753,"y":753,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00007.png",
+	"frame": {"x":753,"y":1505,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00008.png",
+	"frame": {"x":753,"y":2257,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00009.png",
+	"frame": {"x":753,"y":3009,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00010.png",
+	"frame": {"x":1505,"y":1,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00011.png",
+	"frame": {"x":1505,"y":753,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00012.png",
+	"frame": {"x":1505,"y":1505,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00013.png",
+	"frame": {"x":1505,"y":2257,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00014.png",
+	"frame": {"x":1505,"y":3009,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00015.png",
+	"frame": {"x":2257,"y":1,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00016.png",
+	"frame": {"x":2257,"y":753,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00017.png",
+	"frame": {"x":2257,"y":1505,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+{
+	"filename": "deerHop_seq_00018.png",
+	"frame": {"x":2257,"y":2257,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "deerhop.png",
+	"format": "RGBA8888",
+	"size": {"w":3008,"h":3760},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ac37687acfc9ba81c6dca7d940b4ae50:38304515db3baebace1bf2740471d713:5eaf52c303ad28153afaa28c93947656$"
+}
+}
