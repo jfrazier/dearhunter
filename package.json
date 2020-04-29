@@ -23,7 +23,7 @@
   "dependencies": {
     "chance": "^1.0.4",
     "es6-promise": "^3.2.1",
-    "jquery": "~2.2.2",
+    "jquery": "~3.5.0",
     "lodash": "^4.13.1"
   },
   "devDependencies": {
